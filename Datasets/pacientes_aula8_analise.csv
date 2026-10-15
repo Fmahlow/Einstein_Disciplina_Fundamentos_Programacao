@@ -1,0 +1,321 @@
+id_paciente,idade,faixa_etaria,servico,tempo_internacao_dias,internacoes_anteriores,readmissao_30d
+P0001,60,60 ou mais,Cardiologia,3,2,0
+P0002,39,18 a 59,Clínica Médica,6,0,0
+P0003,83,60 ou mais,Clínica Médica,2,1,0
+P0004,45,18 a 59,Oncologia,16,0,0
+P0005,55,18 a 59,Clínica Médica,4,0,0
+P0006,23,18 a 59,Clínica Médica,7,2,0
+P0007,54,18 a 59,Oncologia,,0,0
+P0008,40,18 a 59,Clínica Médica,6,0,0
+P0009,51,18 a 59,Clínica Médica,,3,0
+P0010,33,18 a 59,Neurologia,5,0,0
+P0011,47,18 a 59,Ortopedia,2,0,0
+P0012,62,60 ou mais,Ortopedia,2,0,0
+P0013,90,60 ou mais,Oncologia,32,1,1
+P0014,68,60 ou mais,Ortopedia,3,1,0
+P0015,56,18 a 59,Cardiologia,8,0,0
+P0016,54,18 a 59,Oncologia,10,3,0
+P0017,83,60 ou mais,Cardiologia,22,1,0
+P0018,77,60 ou mais,Cardiologia,3,4,0
+P0019,22,18 a 59,Ortopedia,2,0,0
+P0020,76,60 ou mais,Neurologia,8,1,0
+P0021,54,18 a 59,Clínica Médica,7,0,0
+P0022,,,Clínica Médica,5,1,0
+P0023,30,18 a 59,Clínica Médica,5,0,0
+P0024,80,60 ou mais,Cardiologia,4,2,0
+P0025,57,18 a 59,Clínica Médica,6,0,0
+P0026,33,18 a 59,Ortopedia,5,0,0
+P0027,66,60 ou mais,Oncologia,12,0,0
+P0028,,,Neurologia,5,3,0
+P0029,55,18 a 59,Neurologia,15,0,1
+P0030,73,60 ou mais,Cardiologia,7,0,0
+P0031,64,60 ou mais,Oncologia,30,1,0
+P0032,68,60 ou mais,Ortopedia,,1,0
+P0033,54,18 a 59,Clínica Médica,4,0,0
+P0034,70,60 ou mais,Oncologia,7,2,0
+P0035,94,60 ou mais,Clínica Médica,5,3,0
+P0036,66,60 ou mais,Cardiologia,,0,0
+P0037,67,60 ou mais,Ortopedia,2,0,0
+P0038,50,18 a 59,Neurologia,5,0,0
+P0039,65,60 ou mais,Clínica Médica,1,2,0
+P0040,73,60 ou mais,Clínica Médica,3,2,1
+P0041,81,60 ou mais,Cardiologia,3,1,0
+P0042,83,60 ou mais,Cardiologia,3,4,0
+P0043,35,18 a 59,Ortopedia,3,1,0
+P0044,64,60 ou mais,Clínica Médica,11,2,0
+P0045,84,60 ou mais,Ortopedia,4,2,0
+P0046,46,18 a 59,Oncologia,10,1,0
+P0047,56,18 a 59,Clínica Médica,6,2,0
+P0048,54,18 a 59,Oncologia,10,0,0
+P0049,36,18 a 59,Ortopedia,4,1,0
+P0050,70,60 ou mais,Oncologia,23,0,0
+P0051,63,60 ou mais,Oncologia,12,0,0
+P0052,77,60 ou mais,Oncologia,8,1,0
+P0053,64,60 ou mais,Neurologia,11,0,0
+P0054,48,18 a 59,Clínica Médica,3,0,0
+P0055,64,60 ou mais,Cardiologia,3,1,0
+P0056,58,18 a 59,Cardiologia,3,2,0
+P0057,44,18 a 59,Ortopedia,3,1,0
+P0058,76,60 ou mais,Cardiologia,3,1,0
+P0059,,,Neurologia,12,2,0
+P0060,70,60 ou mais,Clínica Médica,5,1,1
+P0061,69,60 ou mais,Oncologia,6,1,0
+P0062,52,18 a 59,Clínica Médica,17,1,0
+P0063,42,18 a 59,Neurologia,7,0,0
+P0064,48,18 a 59,Clínica Médica,10,1,0
+P0065,78,60 ou mais,Oncologia,10,0,0
+P0066,82,60 ou mais,Ortopedia,3,1,1
+P0067,55,18 a 59,Cardiologia,6,1,0
+P0068,85,60 ou mais,Clínica Médica,5,1,0
+P0069,38,18 a 59,Cardiologia,6,0,0
+P0070,63,60 ou mais,Clínica Médica,3,0,0
+P0071,36,18 a 59,Clínica Médica,4,0,0
+P0072,57,18 a 59,Clínica Médica,5,1,0
+P0073,70,60 ou mais,Cardiologia,4,2,0
+P0074,45,18 a 59,Ortopedia,4,3,0
+P0075,83,60 ou mais,Clínica Médica,6,6,1
+P0076,59,18 a 59,Oncologia,,0,0
+P0077,53,18 a 59,Cardiologia,4,0,0
+P0078,26,18 a 59,Ortopedia,4,0,0
+P0079,55,18 a 59,Cardiologia,8,1,0
+P0080,58,18 a 59,Clínica Médica,4,0,0
+P0081,90,60 ou mais,Cardiologia,4,1,0
+P0082,68,60 ou mais,Cardiologia,5,0,0
+P0083,83,60 ou mais,Neurologia,13,2,1
+P0084,55,18 a 59,Clínica Médica,6,0,0
+P0085,,,Cardiologia,4,1,0
+P0086,73,60 ou mais,Neurologia,10,0,0
+P0087,47,18 a 59,Clínica Médica,5,0,0
+P0088,90,60 ou mais,Clínica Médica,6,3,0
+P0089,33,18 a 59,Ortopedia,3,0,0
+P0090,67,60 ou mais,Neurologia,3,0,0
+P0091,41,18 a 59,Ortopedia,4,2,0
+P0092,54,18 a 59,Ortopedia,3,0,0
+P0093,43,18 a 59,Oncologia,13,0,0
+P0094,40,18 a 59,Oncologia,7,1,0
+P0095,16,menor de 18,Neurologia,4,2,0
+P0096,65,60 ou mais,Cardiologia,5,0,0
+P0097,37,18 a 59,Ortopedia,2,0,0
+P0098,51,18 a 59,Ortopedia,3,0,0
+P0099,77,60 ou mais,Clínica Médica,4,3,1
+P0100,60,60 ou mais,Neurologia,6,0,0
+P0101,41,18 a 59,Clínica Médica,5,1,0
+P0102,35,18 a 59,Clínica Médica,5,1,0
+P0103,36,18 a 59,Clínica Médica,3,0,0
+P0104,77,60 ou mais,Clínica Médica,5,2,0
+P0105,59,18 a 59,Cardiologia,6,1,0
+P0106,61,60 ou mais,Cardiologia,9,2,1
+P0107,42,18 a 59,Cardiologia,6,1,0
+P0108,64,60 ou mais,Clínica Médica,,2,0
+P0109,72,60 ou mais,Oncologia,5,0,0
+P0110,60,60 ou mais,Neurologia,5,1,0
+P0111,76,60 ou mais,Neurologia,5,2,0
+P0112,60,60 ou mais,Oncologia,5,1,0
+P0113,83,60 ou mais,Clínica Médica,7,3,1
+P0114,96,60 ou mais,Clínica Médica,3,3,0
+P0115,66,60 ou mais,Ortopedia,2,1,1
+P0116,50,18 a 59,Ortopedia,3,1,0
+P0117,83,60 ou mais,Cardiologia,,1,0
+P0118,70,60 ou mais,Ortopedia,3,3,0
+P0119,63,60 ou mais,Neurologia,2,2,0
+P0120,80,60 ou mais,Clínica Médica,3,1,0
+P0121,60,60 ou mais,Cardiologia,4,0,0
+P0122,62,60 ou mais,Neurologia,25,1,0
+P0123,44,18 a 59,Clínica Médica,4,0,0
+P0124,93,60 ou mais,Ortopedia,6,2,0
+P0125,41,18 a 59,Clínica Médica,14,0,0
+P0126,74,60 ou mais,Cardiologia,5,1,0
+P0127,56,18 a 59,Cardiologia,4,0,0
+P0128,61,60 ou mais,Clínica Médica,3,1,0
+P0129,60,60 ou mais,Cardiologia,4,0,0
+P0130,48,18 a 59,Clínica Médica,4,1,0
+P0131,21,18 a 59,Ortopedia,4,1,0
+P0132,36,18 a 59,Ortopedia,4,0,0
+P0133,66,60 ou mais,Cardiologia,2,3,0
+P0134,33,18 a 59,Ortopedia,2,1,0
+P0135,59,18 a 59,Ortopedia,2,2,1
+P0136,52,18 a 59,Cardiologia,,1,0
+P0137,61,60 ou mais,Clínica Médica,3,3,1
+P0138,55,18 a 59,Oncologia,4,1,1
+P0139,53,18 a 59,Oncologia,13,2,0
+P0140,59,18 a 59,Oncologia,11,1,0
+P0141,72,60 ou mais,Clínica Médica,4,3,0
+P0142,79,60 ou mais,Clínica Médica,35,0,0
+P0143,81,60 ou mais,Cardiologia,4,4,0
+P0144,66,60 ou mais,Oncologia,5,3,0
+P0145,54,18 a 59,Ortopedia,3,0,0
+P0146,51,18 a 59,Oncologia,6,0,0
+P0147,59,18 a 59,Cardiologia,6,1,0
+P0148,52,18 a 59,Neurologia,15,1,0
+P0149,75,60 ou mais,Cardiologia,4,2,0
+P0150,58,18 a 59,Cardiologia,4,1,0
+P0151,68,60 ou mais,Neurologia,9,0,0
+P0152,73,60 ou mais,Clínica Médica,7,2,0
+P0153,25,18 a 59,Ortopedia,5,1,0
+P0154,82,60 ou mais,Clínica Médica,5,1,1
+P0155,66,60 ou mais,Cardiologia,3,0,0
+P0156,76,60 ou mais,Cardiologia,6,0,0
+P0157,51,18 a 59,Clínica Médica,7,0,0
+P0158,86,60 ou mais,Clínica Médica,10,2,0
+P0159,73,60 ou mais,Oncologia,7,2,0
+P0160,78,60 ou mais,Cardiologia,4,1,0
+P0161,,,Clínica Médica,3,1,0
+P0162,59,18 a 59,Clínica Médica,3,1,0
+P0163,96,60 ou mais,Ortopedia,2,1,0
+P0164,57,18 a 59,Oncologia,7,0,0
+P0165,59,18 a 59,Oncologia,5,1,0
+P0166,74,60 ou mais,Clínica Médica,7,2,0
+P0167,54,18 a 59,Neurologia,6,0,0
+P0168,56,18 a 59,Cardiologia,4,0,0
+P0169,61,60 ou mais,Clínica Médica,4,0,1
+P0170,58,18 a 59,Clínica Médica,14,0,0
+P0171,46,18 a 59,Neurologia,,0,0
+P0172,33,18 a 59,Ortopedia,5,0,0
+P0173,21,18 a 59,Cardiologia,6,2,0
+P0174,68,60 ou mais,Ortopedia,3,1,0
+P0175,74,60 ou mais,Neurologia,4,0,0
+P0176,55,18 a 59,Ortopedia,3,0,0
+P0177,56,18 a 59,Cardiologia,5,3,0
+P0178,63,60 ou mais,Oncologia,10,2,0
+P0179,57,18 a 59,Cardiologia,9,0,0
+P0180,97,60 ou mais,Ortopedia,3,0,0
+P0181,73,60 ou mais,Neurologia,6,5,1
+P0182,67,60 ou mais,Oncologia,12,0,1
+P0183,60,60 ou mais,Clínica Médica,8,0,0
+P0184,59,18 a 59,Neurologia,6,0,0
+P0185,51,18 a 59,Clínica Médica,9,1,0
+P0186,19,18 a 59,Ortopedia,3,2,0
+P0187,55,18 a 59,Clínica Médica,9,2,0
+P0188,32,18 a 59,Ortopedia,2,3,0
+P0189,76,60 ou mais,Clínica Médica,5,2,0
+P0190,62,60 ou mais,Neurologia,5,2,0
+P0191,60,60 ou mais,Cardiologia,9,1,0
+P0192,43,18 a 59,Oncologia,28,0,0
+P0193,64,60 ou mais,Clínica Médica,6,0,0
+P0194,79,60 ou mais,Cardiologia,6,2,0
+P0195,68,60 ou mais,Neurologia,7,0,0
+P0196,58,18 a 59,Cardiologia,7,0,0
+P0197,73,60 ou mais,Clínica Médica,6,1,0
+P0198,69,60 ou mais,Neurologia,4,3,0
+P0199,60,60 ou mais,Ortopedia,4,0,0
+P0200,62,60 ou mais,Ortopedia,2,1,0
+P0201,61,60 ou mais,Oncologia,12,0,0
+P0202,85,60 ou mais,Cardiologia,6,1,0
+P0203,,,Oncologia,11,1,0
+P0204,84,60 ou mais,Clínica Médica,5,0,0
+P0205,68,60 ou mais,Ortopedia,4,1,0
+P0206,74,60 ou mais,Oncologia,8,1,1
+P0207,41,18 a 59,Clínica Médica,5,2,0
+P0208,49,18 a 59,Neurologia,4,0,0
+P0209,76,60 ou mais,Cardiologia,4,1,0
+P0210,67,60 ou mais,Cardiologia,6,1,0
+P0211,23,18 a 59,Ortopedia,5,0,0
+P0212,78,60 ou mais,Clínica Médica,10,1,0
+P0213,70,60 ou mais,Cardiologia,5,0,0
+P0214,71,60 ou mais,Cardiologia,5,2,0
+P0215,41,18 a 59,Clínica Médica,5,0,0
+P0216,79,60 ou mais,Clínica Médica,6,4,0
+P0217,87,60 ou mais,Cardiologia,4,3,0
+P0218,58,18 a 59,Clínica Médica,8,1,0
+P0219,88,60 ou mais,Oncologia,14,2,0
+P0220,66,60 ou mais,Oncologia,14,1,0
+P0221,35,18 a 59,Ortopedia,4,2,0
+P0222,47,18 a 59,Cardiologia,4,0,0
+P0223,61,60 ou mais,Cardiologia,6,3,0
+P0224,64,60 ou mais,Clínica Médica,4,1,1
+P0225,38,18 a 59,Oncologia,4,2,0
+P0226,54,18 a 59,Ortopedia,6,0,0
+P0227,58,18 a 59,Clínica Médica,7,0,0
+P0228,71,60 ou mais,Cardiologia,11,0,0
+P0229,58,18 a 59,Ortopedia,3,0,0
+P0230,61,60 ou mais,Clínica Médica,7,0,0
+P0231,73,60 ou mais,Cardiologia,6,1,0
+P0232,63,60 ou mais,Clínica Médica,3,0,0
+P0233,63,60 ou mais,Ortopedia,4,0,1
+P0234,50,18 a 59,Neurologia,2,1,0
+P0235,65,60 ou mais,Clínica Médica,3,0,0
+P0236,49,18 a 59,Oncologia,10,0,1
+P0237,41,18 a 59,Neurologia,10,0,0
+P0238,58,18 a 59,Cardiologia,4,2,0
+P0239,83,60 ou mais,Cardiologia,4,2,0
+P0240,45,18 a 59,Oncologia,,0,0
+P0241,16,menor de 18,Ortopedia,4,1,0
+P0242,39,18 a 59,Neurologia,4,0,0
+P0243,63,60 ou mais,Cardiologia,3,1,0
+P0244,77,60 ou mais,Neurologia,8,1,0
+P0245,72,60 ou mais,Cardiologia,3,1,0
+P0246,61,60 ou mais,Oncologia,7,1,1
+P0247,56,18 a 59,Cardiologia,4,2,0
+P0248,50,18 a 59,Clínica Médica,4,1,0
+P0249,78,60 ou mais,Neurologia,6,0,1
+P0250,49,18 a 59,Cardiologia,5,0,0
+P0251,55,18 a 59,Clínica Médica,8,0,0
+P0252,58,18 a 59,Cardiologia,3,0,0
+P0253,72,60 ou mais,Oncologia,15,3,0
+P0254,62,60 ou mais,Clínica Médica,5,1,1
+P0255,66,60 ou mais,Ortopedia,4,1,1
+P0256,58,18 a 59,Neurologia,5,4,0
+P0257,70,60 ou mais,Clínica Médica,2,0,0
+P0258,80,60 ou mais,Neurologia,7,3,1
+P0259,56,18 a 59,Oncologia,17,0,0
+P0260,65,60 ou mais,Cardiologia,9,3,0
+P0261,52,18 a 59,Neurologia,10,1,0
+P0262,75,60 ou mais,Oncologia,22,3,0
+P0263,44,18 a 59,Oncologia,6,2,1
+P0264,57,18 a 59,Clínica Médica,7,0,0
+P0265,61,60 ou mais,Cardiologia,4,0,1
+P0266,63,60 ou mais,Ortopedia,3,2,0
+P0267,65,60 ou mais,Clínica Médica,13,2,0
+P0268,52,18 a 59,Cardiologia,3,1,0
+P0269,53,18 a 59,Neurologia,4,1,0
+P0270,45,18 a 59,Ortopedia,6,0,0
+P0271,73,60 ou mais,Neurologia,7,1,0
+P0272,48,18 a 59,Clínica Médica,5,0,0
+P0273,27,18 a 59,Clínica Médica,4,2,0
+P0274,80,60 ou mais,Cardiologia,7,3,0
+P0275,30,18 a 59,Ortopedia,3,0,0
+P0276,73,60 ou mais,Cardiologia,40,1,0
+P0277,63,60 ou mais,Neurologia,6,1,1
+P0278,40,18 a 59,Cardiologia,,1,0
+P0279,55,18 a 59,Cardiologia,6,1,0
+P0280,25,18 a 59,Ortopedia,2,0,0
+P0281,96,60 ou mais,Clínica Médica,8,1,1
+P0282,40,18 a 59,Cardiologia,9,0,0
+P0283,88,60 ou mais,Neurologia,11,5,1
+P0284,42,18 a 59,Neurologia,5,0,0
+P0285,26,18 a 59,Ortopedia,2,0,0
+P0286,47,18 a 59,Oncologia,13,1,0
+P0287,34,18 a 59,Ortopedia,2,1,0
+P0288,87,60 ou mais,Cardiologia,6,4,0
+P0289,69,60 ou mais,Clínica Médica,5,1,0
+P0290,50,18 a 59,Neurologia,3,0,0
+P0291,60,60 ou mais,Ortopedia,6,0,0
+P0292,59,18 a 59,Clínica Médica,9,2,0
+P0293,40,18 a 59,Ortopedia,2,1,0
+P0294,68,60 ou mais,Clínica Médica,8,1,0
+P0295,81,60 ou mais,Neurologia,5,1,0
+P0296,89,60 ou mais,Clínica Médica,39,1,1
+P0297,42,18 a 59,Clínica Médica,6,1,0
+P0298,66,60 ou mais,Ortopedia,3,1,0
+P0299,57,18 a 59,Oncologia,13,3,0
+P0300,70,60 ou mais,Ortopedia,3,1,0
+P0301,46,18 a 59,Clínica Médica,8,2,1
+P0302,65,60 ou mais,Clínica Médica,5,3,0
+P0303,52,18 a 59,Neurologia,6,1,0
+P0304,82,60 ou mais,Cardiologia,38,0,0
+P0305,45,18 a 59,Clínica Médica,6,0,0
+P0306,78,60 ou mais,Oncologia,17,1,0
+P0307,71,60 ou mais,Clínica Médica,7,1,0
+P0308,71,60 ou mais,Clínica Médica,9,2,0
+P0309,52,18 a 59,Oncologia,16,1,0
+P0310,45,18 a 59,Ortopedia,,1,0
+P0311,76,60 ou mais,Oncologia,11,1,0
+P0312,96,60 ou mais,Clínica Médica,9,1,0
+P0313,65,60 ou mais,Oncologia,9,0,0
+P0314,66,60 ou mais,Clínica Médica,11,2,0
+P0315,56,18 a 59,Clínica Médica,13,1,0
+P0316,51,18 a 59,Oncologia,3,1,0
+P0317,55,18 a 59,Oncologia,3,1,0
+P0318,76,60 ou mais,Cardiologia,4,1,0
+P0319,66,60 ou mais,Ortopedia,2,2,0
+P0320,60,60 ou mais,Clínica Médica,5,2,0
